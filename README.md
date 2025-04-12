@@ -1,0 +1,1 @@
+This repo consists of Co-Authorship Network data of Computer Science researchers of 14 top research universities in Bangladesh. Here each author has been presented with a Unique ID (uid). A pair of uid represents a collaboration between authors.
